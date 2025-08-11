@@ -1,7 +1,7 @@
 # Hi, I'm Akhila 👋  
 
-🎓 **B.Sc. in Computer Science (AI) + Minor in Neuroscience** @ McGill University  
-💡 Passionate about **software development, AI, and building impactful tech solutions**  
+--> **B.Sc. in Computer Science (AI) + Minor in Neuroscience** @ McGill University  
+--> Passionate about **software development, AI, and building impactful tech solutions**  
 --> Seeking **Summer 2026 internship** in software engineering, AI, or data science in the UAE  
 
 ---
